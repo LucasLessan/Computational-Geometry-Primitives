@@ -1,0 +1,1 @@
+This repository contains the definition and implementation of some data scructures and primitives used in Computational Geometry, such as Point, Segment (for a line segment) and the class with the primitives. This is not intended to be exhaustive.
