@@ -1,3 +1,5 @@
+// ----- Encoding UTF-8
+
 #include <iostream>
 #include <assert.h>
 

@@ -3,11 +3,10 @@
 #ifndef POINT_HPP
 #define POINT_HPP
 
+// Implements a point structure in R^2
 class Point {
-  // Implements a point structure in R^2
-
   public:
-    // ----- Construtors
+    // ----- Constructors
     Point(); // Same as Point(0.0, 0.0)
     Point(double x); // Same as Point(x, x)
     Point(double x, double y);

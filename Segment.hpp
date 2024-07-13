@@ -5,11 +5,10 @@
 
 #include "Point.hpp"
 
+// Implements a line segment structure in R^2
 class Segment {
-  // Implements a line segment structure in R^2
-
   public:
-    // ----- Construtors
+    // ----- Constructors
     Segment(Point p2); // Same as Segment(Point(0.0, 0.0), p2)
     Segment(Point p1, Point p2);
 

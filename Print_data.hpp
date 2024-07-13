@@ -6,10 +6,9 @@
 #include "Point.hpp"
 #include "Segment.hpp"
 
+// Implements output functions for Points and Segments so as to adhere to the
+// Single Responsibility principle.
 class Print_data {
-  // Implements output functions for Points and Segments so as to adhere to the
-  // Single Responsibility principle.
-  
   public:
     // ----- Interface
     static void print(Point p);
